@@ -1,6 +1,9 @@
 # Fashion MNIST DCGAN
 This is a pretty simple DCGAN thats been modified to work with FashionMNIST
 
+![alt text](./img/example.png "A couple of iterations of this")
+
+
 You can download and unpack the FashionMNIST dataset here:
 
 https://github.com/zalandoresearch/fashion-mnist
